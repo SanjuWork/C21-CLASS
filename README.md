@@ -1,2 +1,2 @@
-# C21-CLASS
-BOUNCEOFF AND COLLISION ALGORITHM - LIBRARY FILES 
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
